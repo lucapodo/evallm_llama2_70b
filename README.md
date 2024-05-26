@@ -28,7 +28,7 @@ The data used in our experiments can be found in:
 
 The code implementation for this case study is maintained in a separate repository. You can find all the code, including scripts for data processing, model evaluation, and analysis, in the following repository:
 
-[Code Implementation Repository](https://github.com/yourusername/evallm-code](https://github.com/ishmalazmi/llm4vis-benchmark/)
+[Code Implementation Repository](https://github.com/ishmalazmi/llm4vis-benchmark/)
 
 ## How to Contribute
 
