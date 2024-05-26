@@ -43,6 +43,6 @@ We welcome contributions to this project! If you find our work interesting or us
 If you have any questions, suggestions, or would like to collaborate, please feel free to contact us:
 
 - **Email:** [podo@di.uniroma1.it](mailto:podo@di.uniroma1.it)
-- **Linkedin:** [lucapodo](linkedin.com/luca-podo)
+- **Linkedin:** [lucapodo](https://linkedin.com/luca-podo)
 
 Thank you for your interest in the EvaLLM Case Study!
