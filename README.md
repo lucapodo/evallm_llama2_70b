@@ -20,7 +20,7 @@ Our ongoing efforts include:
 
 ## Data
 
-The data used in our experiments can be found in the [data](data) directory. The main dataset used is provided as a CSV file:
+The data used in our experiments can be found in:
 
 - `llama-70b-results-v5.csv`: Contains the results and data from our LLM evaluations.
 
@@ -28,7 +28,7 @@ The data used in our experiments can be found in the [data](data) directory. The
 
 The code implementation for this case study is maintained in a separate repository. You can find all the code, including scripts for data processing, model evaluation, and analysis, in the following repository:
 
-[Code Implementation Repository]([https://github.com/yourusername/evallm-code](https://github.com/ishmalazmi/llm4vis-benchmark/))
+[Code Implementation Repository](https://github.com/yourusername/evallm-code](https://github.com/ishmalazmi/llm4vis-benchmark/)
 
 ## How to Contribute
 
